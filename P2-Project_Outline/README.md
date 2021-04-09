@@ -7,13 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-matt saye hi
-Include overview here
+my app will be a conservation/habitat construction aid. It will cross-reference insects/birds with respective flowers/trees.
 ### Features
-Include Features here
+UI (signup, login, logout, profile), database, clickables (links, lists)
 ### Technologies
-Include Technologies here
+Java, IntelliJ. Spring Boot, APIs, MySQL, HTML, CSS/Bootstrap
 ### What I'll Have to Learn
-Include what you will need to learn here
+using APIs to make a database
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/zUPWUUMc/liftoff
