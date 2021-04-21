@@ -8,12 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-
+https://github.com/chew208/liftoff-assignments/commit/393fb770b904bf1a7f8398ae928e30e5099e7571
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/zUPWUUMc/liftoff
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/chew208/liftoff-project
